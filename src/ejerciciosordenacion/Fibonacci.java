@@ -24,7 +24,7 @@ public class Fibonacci {
 			fibo1 = fibo2 - fibo1;
 		}
 		System.out.println();
-		System.out.println("hol");
+		System.out.println("hola");
 	}
 
 }
