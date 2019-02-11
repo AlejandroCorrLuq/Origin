@@ -25,6 +25,7 @@ public class Fibonacci {
 		}
 		System.out.println();
 		System.out.println("hola");
+		System.out.println("Esto es una nueva linea");
 	}
 
 }
